@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Ecosystem & Vibe Coding Hub",
+  "description": "A high-tech digital ecosystem for AI developers, featuring Vibe Coding academy, AI software store, and comprehensive portfolio management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
